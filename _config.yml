@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "irfan.jpeg"
+  avatar           : "/images/irfan.jpeg"
   name             : "Muhammad Irfan"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Computer Science Engineering Scholar at HBKU, Doha, Qatar."
@@ -45,10 +45,10 @@ author:
   dribbble         : # Username
   github           : "irfanbabar42"
   kaggle           : # Username  
-  stackoverflow    : "irfanbabar42"   
+  #stackoverflow    : "irfanbabar42"   
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
