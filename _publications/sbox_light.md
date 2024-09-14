@@ -1,7 +1,7 @@
 ---
-title: "On the Reliability of Radio Frequency Fingerprinting"
+title: "Design of Key-dependent S-Box using Chaotic Logistic Map for IoT-Enabled Smart Grid Devices"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/sbox_light
 excerpt: '**Irfan, Muhammad**, Muhammad Asif Khan, and Gabriele Oligeri. "Design of Key-dependent S-Box using Chaotic Logistic Map for IoT-Enabled Smart Grid Devices." 2024 4th International Conference on Smart Grid and Renewable Energy (SGRE). IEEE, 2024.'
 date: 2024-02-15

@@ -1,7 +1,7 @@
 ---
 title: "Jamming Detection in Power Line Communications Leveraging Deep Learning Techniques"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/isncc23_jamming_detection_plc
 excerpt: '**Irfan, Muhammad**, Aymen Omri, Javier Hernandez Fernandez, Savio Sciancalepore, Gabriele Oligeri. "Jamming Detection in Power Line Communications Leveraging Deep Learning Techniques." 2023 International Symposium on Networks, Computers and Communications (ISNCC). IEEE, 2023.'
 date: 2023-11-27
