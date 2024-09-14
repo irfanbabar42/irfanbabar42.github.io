@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "irfan.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Muhammad Irfan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Computer Science Engineering Scholar at HBKU, Doha, Qatar."
   location         : "Doha, Qatar"
   employer         : "Hamad Bin Khalifa University"
   uri              : # URL
