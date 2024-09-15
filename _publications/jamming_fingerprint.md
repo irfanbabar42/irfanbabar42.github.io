@@ -2,7 +2,7 @@
 title: "Preventing Radio Fingerprinting through Friendly Jamming"
 collection: publications
 category: manuscripts
-permalink: /publication/jamming_fingerprint
+permalink: #/publication/jamming_fingerprint
 excerpt: '**Irfan, Muhammad**, Savio Sciancalepore, and Gabriele Oligeri. "Preventing Radio Fingerprinting through Friendly Jamming." arXiv preprint arXiv:2407.08311 (2024).' #using MLA format
 date: 2024-07-11
 venue: 'Arxiv'
