@@ -2,7 +2,7 @@
 title: "A survey on detection and localisation of false data injection attacks in smart grids"
 collection: publications
 category: manuscripts
-permalink: /publication/survey_fdia_localization
+permalink: #/publication/survey_fdia_localization
 excerpt: '**Irfan, Muhammad**,  Sadighian, Alireza, Tanveer, Adeen, Al-Naimi, Shaikha J, Oligeri, Gabriele. "A survey on detection and localisation of false data injection attacks in smart grids." IET Cyber‐Physical Systems: Theory & Applications (2024).'
 date: 204-05-26
 venue: 'IET Cyber‐Physical Systems: Theory & Applications'

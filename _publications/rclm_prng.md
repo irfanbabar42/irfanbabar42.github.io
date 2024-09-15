@@ -2,7 +2,7 @@
 title: "Pseudorandom Number Generator (PRNG) Design Using Hyper-Chaotic Modified Robust Logistic Map (HC-MRLM)"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: '**Muhammad Irfan**, Asim Ali, Muhammad Asif Khan, Muhammad Ehatisham-ul-Haq, Syed Nasir Mehmood Shah, Abdul Saboor, Waqar Ahmad. "Pseudorandom number generator (PRNG) design using hyper-chaotic modified robust logistic map (HC-MRLM)." Electronics 9.1 (2020): 104.'
 date: 2020-01-06
 venue: 'MDPI Electronics'

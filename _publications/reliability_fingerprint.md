@@ -2,7 +2,7 @@
 title: "On the Reliability of Radio Frequency Fingerprinting"
 collection: publications
 category: manuscripts
-permalink: /publication/reliability_fingerprint
+permalink: #/publication/reliability_fingerprint
 excerpt: '**Irfan, Muhammad**, Savio Sciancalepore, and Gabriele Oligeri. "On the Reliability of Radio Frequency Fingerprinting." arXiv preprint arXiv:2408.09179 (2024).' #using MLA format
 date: 2024-08-17
 venue: 'Arxiv'
