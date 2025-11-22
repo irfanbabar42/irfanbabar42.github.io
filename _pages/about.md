@@ -102,3 +102,7 @@ Awards & Recognition
 - CSE Scholarship, Hamad Bin Khalifa University
 - CSE Award, University of North Texas, Denton, Texas
 - Best Paper Award Nomination, IEEE ISNCC 2023
+
+Download CV
+======
+[Download my CV (PDF)](/files/cv_irfan_cybersecurity.pdf)

@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/cv_irfan_cybersecurity.pdf){: .btn .btn--primary}
+
 Education
 ======
 * **Ph.D. in Computer Science and Engineering** (Expected January 2026)
