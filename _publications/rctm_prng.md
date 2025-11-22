@@ -1,14 +1,12 @@
 ---
-title: "Cryptographically Secure Pseudo-Random Number Generation (CS-PRNG) Design using Robust Chaotic Tent Map (RCTM)"
+title: "Cryptographically Secure Pseudo-Random Number Generation using Robust Chaotic Tent Map: A Novel Approach"
 collection: publications
 category: manuscripts
-#permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: '**Irfan, Muhammad**, and Muhammad Asif Khan. "Cryptographically Secure Pseudo-Random Number Generation (CS-PRNG) Design using Robust Chaotic Tent Map (RCTM)." arXiv preprint arXiv:2408.05580 (2024).'
-date: 2024-8-10
-venue: 'Arxiv'
-#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://arxiv.org/abs/2408.05580'
-citation: #
+permalink: /publication/rctm_prng
+excerpt: '**Irfan, Muhammad**, and Muhammad Asif Khan. "Cryptographically secure pseudo-random number generation using a Robust Chaotic Tent Map: a novel approach." Cogent Engineering, 12(1), 2558751, 2025.'
+date: 2025-01-01
+venue: 'Cogent Engineering (Taylor & Francis)'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/23311916.2025.2558751'
 ---
 
 ## Abstract
